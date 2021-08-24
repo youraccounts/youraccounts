@@ -18,6 +18,7 @@
 ## 🍀 Sponsors and Supporters
 
 [![BuyMeaCoffee](https://wrngnz.ga/badge-buymeacoffee)](https://buymeacoff.ee/sophat) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://app.gitbook.com/@sophat) 
+
 and **you**... [buy me a coffee](https://bmc.xyz/sophat) if you love what I do!
 
 ---
