@@ -28,16 +28,16 @@ and **you**... [buy me a coffee](https://bmc.xyz/sophat) if you love what I do!
 
 
 
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=youraccounts)
+
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=youraccounts&theme=algolia)
 
 
 
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youraccounts)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youraccounts&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api?username=youraccounts&show_icons=true&locale=en" alt="youraccounts" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=youraccounts&" alt="youraccounts" />
-    <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=youraccounts&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="youraccounts"/></a>
 
 
 <p align="center">
