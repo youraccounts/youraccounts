@@ -42,8 +42,8 @@ and **you**... [buy me a coffee](https://bmc.xyz/sophat) if you love what I do!
 
 
 <p align="center">
+<a href="https://github.com/youraccounts" target="blank"> <img align="center" src="https://img.shields.io/github/followers/youraccounts?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" />  </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">  <img src="https://github-profile-trophy.vercel.app/?username=youraccounts&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="youraccounts"/></a>
 <a href="https://github.com/youraccounts" target="blank"> <img align="center" src="https://komarev.com/ghpvc/?username=doggy8088&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" />  </a>
-<a href="https://github.com/youraccounts" target="blank"> <img align="center" src="https://img.shields.io/github/followers/youraccounts?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" />  </a>
 </p>
 
