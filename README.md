@@ -38,3 +38,16 @@ and **you**... [buy me a coffee](https://bmc.xyz/sophat) if you love what I do!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youraccounts)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youraccounts&show_icons=true&theme=radical)
 
 </details>
+<p align="center"> <a href="https://twitter.com/sophatlab" target="blank"><img src="https://img.shields.io/twitter/follow/sophatlab?logo=twitter&style=for-the-badge" alt="sophatlab" /></a> </p>
+
+
+<p align="center">
+<a href="https://github.com/youraccounts" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=doggy8088&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" /></a>
+<a href="https://github.com/youraccounts" target="blank"><img align="center" src="https://img.shields.io/github/followers/youraccounts?label=GitHub%20Followers&&style=plastic" alt="GitHub Followers" /></a>
+</p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youraccounts&&row=2&column=4&margin-w=5&margin-h=5&no-bg=false&no-frame=true&title=MultiLanguage,LongTimeUser,AncientUser,Stars,Followers,Repositories,Issue,PullRequest" alt="youraccounts"/></a> </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=youraccounts&show_icons=true&locale=en" alt="doggy8088" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=youraccounts&" alt="doggy8088" /></p>
